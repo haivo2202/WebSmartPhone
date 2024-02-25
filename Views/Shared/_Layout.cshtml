@@ -1,0 +1,172 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/54f0cb7e4a.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="~/assets/css/style.css">
+    <title>Smart Phonee</title>
+</head>
+
+<body>
+    <header>
+        <img src="~/assets/image/banner.jpg" alt="">
+    </header>
+    <nav>
+        <div class="container">
+            <ul>
+                <li>
+                    <a asp-controller="Home" asp-action="Index"><img style="width: 150px;" src="https://png.pngtree.com/png-clipart/20230207/original/pngtree-beauty-logo-design-png-image_8947095.png" alt=""></a>
+                </li>
+                <li id="adress-form"><a href="#">Quận 12<i class="fas fa-sort-down"></i></a> </li>
+                <div class="search-area">
+                    <form class="form-inline" action="@Url.Action("Index", "Home")" method="get">
+                        <div class="control-group">
+                            <ul class="categories-filter animate-dropdown">
+                                <li class="dropdown" >
+                                    <a class="dropdown-toggle" href="#" style=" color:white">Danh mục</a>
+                                </li>
+                            </ul>
+                            <input class="search-field" name="searchTerm" placeholder="Tìm kiếm ở đây...">
+                            
+                        </div>
+                    </form>
+                </div>
+                
+                <li><button><a asp-controller="Cart" asp-action="Index"><i class="fas fa-shopping-cart"></i>Giỏ hàng</a></button></li>
+
+                <li><a href="~/Checkout/OrderHistory">Lịch Sử Mua Hàng</a></li>
+                
+                <partial name="_LoginPartial" />
+                <li><a href="~/Admin/Login">ADMIN LOGIN</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- ---------------------------Slider----------------------- -->
+    <!------------product---------->
+    @RenderBody()
+
+    <footer class="footer">
+        <div class="grid">
+            <div class="row">
+                <div class="column">
+                    <h3 class="footer_heading">Trang chủ</h3>
+                    <ul class="list">
+                        <li class="list-items">
+                            <a href="">Lịch sử mua hàng</a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Cộng tác bán hàng</a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Tìm hiểu trả góp</a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Chính sách bảo hành</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="column">
+                    <h3 class="footer_heading">Giới thiệu công ty</h3>
+                    <ul class="list">
+                        <li class="list-items">
+                            <a href="">Tuyển dụng</a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Gửi góp ý, khiếu nại</a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Tìm siêu thị</a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Xem bản mobile</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="column">
+                    <h3 class="footer_heading">Tổng đài hỗ trợ</h3>
+                    <ul class="list">
+                        <li class="list-items">
+                            <a href="">Gọi mua <mark>1800.1060</mark></a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Kỹ thuật <mark>1800.1763</mark></a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Khiếu nại <mark>1800.1062</mark></a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Bảo hành <mark>1800.1064</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="column">
+                    <h3 class="footer_heading">Giới thiệu</h3>
+                    <ul class="list">
+                        <li class="list-items">
+                            <a href="">Điều khoản sử dụng</a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Chính sách bảo mật</a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Quảng cáo</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="~/assets/js/script.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/assets/js/script.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+<style>
+    .search-area {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .form-inline {
+        display: inline-block;
+    }
+
+    .control-group {
+        display: flex;
+        align-items: center;
+    }
+
+    .categories-filter {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .dropdown-toggle {
+        text-decoration: none;
+        color: #333;
+        font-weight: bold;
+    }
+
+    .search-field {
+        padding: 5px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+        margin-left: 10px;
+    }
+
+    .search-button {
+        display: inline-block;
+        width: 25px;
+        height: 25px;
+        background-color: #333;
+        margin-left: 10px;
+    }
+</style>

@@ -1,0 +1,2677 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Project_PhoneStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Project_PhoneStore.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\assets\\js\\site.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\animate.css",
+      "PackagePath": "staticwebassets\\admin\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\baguetteBox.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\baguetteBox.min.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap-select.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\calendar.css",
+      "PackagePath": "staticwebassets\\admin\\css\\calendar.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\calendar.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\calendar.min.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\color_2.css",
+      "PackagePath": "staticwebassets\\admin\\css\\color_2.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\custom.css",
+      "PackagePath": "staticwebassets\\admin\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\admin\\css\\flaticon.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\admin\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\admin\\css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\admin\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\admin\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\admin\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\css\\semantic.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\semantic.min.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\fonts\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\admin\\fonts\\_flaticon.scss"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\admin\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\fonts\\flaticon.html",
+      "PackagePath": "staticwebassets\\admin\\fonts\\flaticon.html"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\landing_page\\stack-of-three-black-hot-stones-spa-salon-vector-16122479.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\landing_page\\stack-of-three-black-hot-stones-spa-salon-vector-16122479.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\american-express.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\american-express.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\bg1.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\bg1.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\error.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\error.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\g1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g1.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\g10.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g10.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\g11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g11.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\g12.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g12.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\g13.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g13.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\g14.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g14.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\g15.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g15.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\g16.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g16.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\g2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\g3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\g4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g4.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\g5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g5.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\g6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g6.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\g7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g7.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\g8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g8.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\g9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\g9.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\login_image.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\login_image.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\map_icon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\map_icon.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\mastercard.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\mastercard.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\msg1.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\msg1.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\msg2.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\msg2.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\msg3.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\msg3.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\msg4.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\msg4.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\msg5.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\msg5.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\pattern.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\pattern.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\pattern_h.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\pattern_h.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\paypal.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\paypal.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\user_img.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\user_img.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\layout_img\\visa.png",
+      "PackagePath": "staticwebassets\\admin\\images\\layout_img\\visa.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\logo\\logo_black.png",
+      "PackagePath": "staticwebassets\\admin\\images\\logo\\logo_black.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\images\\logo\\logo_icon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\logo\\logo_icon.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.bundle.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\Chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\analyser.js",
+      "PackagePath": "staticwebassets\\admin\\js\\analyser.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\animate.js",
+      "PackagePath": "staticwebassets\\admin\\js\\animate.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\calendar.js",
+      "PackagePath": "staticwebassets\\admin\\js\\calendar.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\calendar.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\calendar.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\chart_custom_style1.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart_custom_style1.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\chart_custom_style2.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart_custom_style2.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\custom.js",
+      "PackagePath": "staticwebassets\\admin\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\custom_chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\custom_chart.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.fancybox.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\admin\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\semantic.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\semantic.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\settings.html",
+      "PackagePath": "staticwebassets\\admin\\js\\settings.html"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\js\\utils.js",
+      "PackagePath": "staticwebassets\\admin\\js\\utils.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-3d.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-3d.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-animation.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-animation.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-api-annotations.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-api-annotations.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-api-rules.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-api-rules.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-api.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-api.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-area.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-area.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-area3d.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-area3d.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-boxplot.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-boxplot.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-bubble.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-bubble.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-bubblepie.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-bubblepie.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-calendar.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-calendar.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-chord.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-chord.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-core.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-core.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-csv.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-csv.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-debug.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-debug.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-dragging.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-dragging.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-errorbars.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-errorbars.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-export.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-export.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-gauge.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-gauge.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-grid.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-grid.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-guide.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-guide.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-hbar.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-hbar.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-hbar3d.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-hbar3d.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-hbubble.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-hbubble.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-hbullet.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-hbullet.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-hfunnel.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-hfunnel.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-history.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-history.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-hscatter.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-hscatter.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-legend.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-legend.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-line.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-line.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-line3d.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-line3d.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-afg.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-afg.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-ago.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ago.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-alb.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-alb.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-and.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-and.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-are.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-are.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-arg.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-arg.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-arm.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-arm.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-aus.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-aus.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-aut.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-aut.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-aze.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-aze.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-bdi.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-bdi.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-bel.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-bel.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-ben.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ben.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-bfa.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-bfa.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-bgr.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-bgr.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-bih.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-bih.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-blr.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-blr.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-bol.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-bol.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-bra.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-bra.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-brn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-brn.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-btn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-btn.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-bwa.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-bwa.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-caf.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-caf.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-can.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-can.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-che.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-che.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-chl.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-chl.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-chn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-chn.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-civ.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-civ.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-cmr.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-cmr.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-cod.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-cod.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-cog.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-cog.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-col.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-col.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-cri.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-cri.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-cub.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-cub.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-cyp.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-cyp.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-cze.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-cze.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-deu.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-deu.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-dnk.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-dnk.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-ecu.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ecu.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-egy.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-egy.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-esp.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-esp.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-espL2.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-espL2.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-est.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-est.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-eth.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-eth.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-fin.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-fin.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-fra.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-fra.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-fraL2.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-fraL2.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-gab.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-gab.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-gbr.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-gbr.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-gbrL2.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-gbrL2.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-geojson.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-geojson.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-gha.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-gha.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-gmb.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-gmb.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-gnb.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-gnb.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-grc.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-grc.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-gtm.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-gtm.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-guf.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-guf.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-guy.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-guy.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-hrv.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-hrv.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-hun.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-hun.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-ind.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ind.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-irl.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-irl.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-irn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-irn.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-isl.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-isl.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-isr.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-isr.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-ita.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ita.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-jpn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-jpn.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-kaz.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-kaz.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-ken.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ken.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-kor.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-kor.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-kwt.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-kwt.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-lao.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-lao.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-lbr.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-lbr.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-lie.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-lie.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-ltu.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ltu.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-lux.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-lux.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-lva.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-lva.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-mda.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-mda.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-mex.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-mex.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-mkd.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-mkd.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-mne.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-mne.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-moz.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-moz.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-nam.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-nam.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-ncl.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ncl.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-nga.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-nga.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-nld.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-nld.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-nor.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-nor.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-nzl.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-nzl.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-omn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-omn.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-pak.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-pak.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-pan.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-pan.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-per.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-per.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-phl.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-phl.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-png.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-png.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-pol.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-pol.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-prt.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-prt.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-qat.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-qat.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-rou.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-rou.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-rus.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-rus.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-rwa.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-rwa.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-sen.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-sen.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-slv.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-slv.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-srb.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-srb.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-sur.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-sur.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-svk.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-svk.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-svn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-svn.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-swe.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-swe.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-tha.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-tha.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-tjk.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-tjk.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-topojson.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-topojson.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-tun.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-tun.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-tur.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-tur.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-twn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-twn.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-uga.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-uga.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-ukr.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ukr.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-ury.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ury.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_ak.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ak.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_al.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_al.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_ar.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ar.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_az.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_az.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_ca.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ca.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_co.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_co.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_ct.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ct.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_dc.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_dc.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_de.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_de.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_fl.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_fl.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_ga.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ga.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_hi.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_hi.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_ia.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ia.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_id.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_id.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_il.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_il.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_in.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_in.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_ks.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ks.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_ky.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ky.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_la.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_la.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_ma.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ma.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_md.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_md.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_me.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_me.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_mi.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_mi.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_mn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_mn.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_mo.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_mo.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_ms.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ms.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_mt.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_mt.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_nc.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_nc.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_nd.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_nd.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_ne.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ne.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_nh.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_nh.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_nj.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_nj.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_nm.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_nm.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_nv.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_nv.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_ny.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ny.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_oh.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_oh.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_ok.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ok.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_or.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_or.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_pa.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_pa.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_ri.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ri.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_sc.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_sc.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_sd.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_sd.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_tn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_tn.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_tx.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_tx.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_ut.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_ut.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_va.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_va.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_vt.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_vt.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_wa.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_wa.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_wi.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_wi.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_wv.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_wv.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-usa_wy.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-usa_wy.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-uzb.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-uzb.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-ven.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-ven.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-vnm.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-vnm.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-world-continents.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-world-continents.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-world-countries.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-world-countries.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-yem.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-yem.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-zaf.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-zaf.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-zmb.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-zmb.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps-zwe.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps-zwe.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-maps.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-maps.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-navpie.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-navpie.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-nestedpie.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-nestedpie.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-objects.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-objects.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-pareto.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-pareto.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-patterns.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-patterns.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-piano.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-piano.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-pie.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-pie.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-pie3d.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-pie3d.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-populationpyramid.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-populationpyramid.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-preview.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-preview.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-r.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-r.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-radar.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-radar.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-range.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-range.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-rankflow.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-rankflow.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-refresh.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-refresh.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-scalemarkers.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-scalemarkers.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-scatter.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-scatter.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-scroll.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-scroll.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-selection-tool.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-selection-tool.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-selection.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-selection.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-stock.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-stock.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-stream.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-stream.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-svg-simple-selection.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-svg-simple-selection.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-toolbar3d.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-toolbar3d.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-tooltip.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-tooltip.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-treemap.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-treemap.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-varea.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-varea.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-vbar.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-vbar.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-vbar3d.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-vbar3d.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-vbullet.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-vbullet.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-venn.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-venn.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-vfunnel.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-vfunnel.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-vline.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-vline.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-waterfall.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-waterfall.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-wordcloud.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-wordcloud.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-xy.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-xy.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-yx.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-yx.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\modules\\zingchart-zoom.min.js",
+      "PackagePath": "staticwebassets\\admin\\modules\\zingchart-zoom.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\admin\\style.css",
+      "PackagePath": "staticwebassets\\admin\\style.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets3\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets3\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets3\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets3\\css\\main.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\assets3\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\assets3\\css\\price-range.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets3\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets3\\favicon.ico"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\assets3\\images\\1.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\assets3\\images\\3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\images\\bf.jpg",
+      "PackagePath": "staticwebassets\\assets3\\images\\bf.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\images\\huaw.jpg",
+      "PackagePath": "staticwebassets\\assets3\\images\\huaw.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\images\\ip15sss.jpg",
+      "PackagePath": "staticwebassets\\assets3\\images\\ip15sss.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\images\\ssutral.jpg",
+      "PackagePath": "staticwebassets\\assets3\\images\\ssutral.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets3\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\js\\contact.js",
+      "PackagePath": "staticwebassets\\assets3\\js\\contact.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\assets3\\js\\gmaps.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\assets3\\js\\html5shiv.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\assets3\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\assets3\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\assets3\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets3\\js\\main.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\assets3\\js\\price-range.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\023b44e1-f692-4a1d-8097-a83ea3252008_ip15plus.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\023b44e1-f692-4a1d-8097-a83ea3252008_ip15plus.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\02638500-dab5-4e06-a05a-a3a478622b5e_3.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\02638500-dab5-4e06-a05a-a3a478622b5e_3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\2a450d5f-5b03-4dee-ae27-6f4e73c94912_ip14prm.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\2a450d5f-5b03-4dee-ae27-6f4e73c94912_ip14prm.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\2cdb0f43-3bc8-4147-aaff-f63b7f93a0eb_49d74d1d-b9b5-420a-b098-1f4ae7483744_ip12.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\2cdb0f43-3bc8-4147-aaff-f63b7f93a0eb_49d74d1d-b9b5-420a-b098-1f4ae7483744_ip12.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\3.jpg.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\3.jpg.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\3baa18b2-d8ba-42a8-94cd-990bf9677853_3.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\3baa18b2-d8ba-42a8-94cd-990bf9677853_3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\4.jpg.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\4.jpg.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\4187cdb3-1f36-4093-b57f-012a0f2856bb_Samsung_Galaxy_Fold_5G_6585.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\4187cdb3-1f36-4093-b57f-012a0f2856bb_Samsung_Galaxy_Fold_5G_6585.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\438b78bf-6e22-48ef-9048-65a3719ffd2e_apple-iphone-7-plus-128-gb-plata-0190198044082.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\438b78bf-6e22-48ef-9048-65a3719ffd2e_apple-iphone-7-plus-128-gb-plata-0190198044082.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\49d74d1d-b9b5-420a-b098-1f4ae7483744_ip12.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\49d74d1d-b9b5-420a-b098-1f4ae7483744_ip12.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\5600317c-432d-4eec-8c60-8d8d32e94a78_sung.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\5600317c-432d-4eec-8c60-8d8d32e94a78_sung.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\573e8bb3-dcd3-4395-b850-fdcf5becdb64_ip13.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\573e8bb3-dcd3-4395-b850-fdcf5becdb64_ip13.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\5d989944-ec13-413d-8924-f440b3b1eae3_ip15plus.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\5d989944-ec13-413d-8924-f440b3b1eae3_ip15plus.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\8e440199-a13b-431a-b101-495f9f4a9596_apple-iphone-7-plus-128-gb-plata-0190198044082.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\8e440199-a13b-431a-b101-495f9f4a9596_apple-iphone-7-plus-128-gb-plata-0190198044082.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\9018a8cc-2100-4e72-8b87-f53035548be7_sung.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\9018a8cc-2100-4e72-8b87-f53035548be7_sung.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\9b7ce164-4339-43dc-82f3-31d0bf086e7e_438b78bf-6e22-48ef-9048-65a3719ffd2e_apple-iphone-7-plus-128-gb-plata-0190198044082.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\9b7ce164-4339-43dc-82f3-31d0bf086e7e_438b78bf-6e22-48ef-9048-65a3719ffd2e_apple-iphone-7-plus-128-gb-plata-0190198044082.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\a8877c89-7431-4553-9575-bff31dde426d_ip15plus.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\a8877c89-7431-4553-9575-bff31dde426d_ip15plus.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\b0abea52-713b-49a9-99ac-e61c09c33c44_apple-iphone-7-plus-128-gb-plata-0190198044082.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\b0abea52-713b-49a9-99ac-e61c09c33c44_apple-iphone-7-plus-128-gb-plata-0190198044082.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\c0d10090-b46e-4b47-b7d6-3ae92fd9a55e_ip13.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\c0d10090-b46e-4b47-b7d6-3ae92fd9a55e_ip13.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\c76cdfdb-92f1-4799-bc51-83d289ee765f_4.jpg.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\c76cdfdb-92f1-4799-bc51-83d289ee765f_4.jpg.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\d87fc053-7af9-4459-800b-5fe978bc8827_iphone14promax.webp",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\d87fc053-7af9-4459-800b-5fe978bc8827_iphone14promax.webp"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\df75cd00-c9bd-4578-9eb6-80aa933ee714_thg map.png",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\df75cd00-c9bd-4578-9eb6-80aa933ee714_thg map.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\e85371ed-c50a-4384-a3b2-d0f0dcf6e021_apple-iphone-7-plus-128-gb-plata-0190198044082.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\e85371ed-c50a-4384-a3b2-d0f0dcf6e021_apple-iphone-7-plus-128-gb-plata-0190198044082.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\ecf695b2-edd3-4381-b49b-5dbbea51dcc3_sung.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\ecf695b2-edd3-4381-b49b-5dbbea51dcc3_sung.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\f5085b49-8ef4-46ee-8399-194fc68ea119_ip14prm.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\f5085b49-8ef4-46ee-8399-194fc68ea119_ip14prm.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\fa8af996-fa35-4d39-9115-1462d7cf82e5_ip14prm.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\fa8af996-fa35-4d39-9115-1462d7cf82e5_ip14prm.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets3\\media\\products\\fb379704-e1d7-424d-9ade-19cb914e8dc0_3.jpg",
+      "PackagePath": "staticwebassets\\assets3\\media\\products\\fb379704-e1d7-424d-9ade-19cb914e8dc0_3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\.vscode\\settings.json",
+      "PackagePath": "staticwebassets\\assets4\\.vscode\\settings.json"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets4\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\css\\dangnhap.css",
+      "PackagePath": "staticwebassets\\assets4\\css\\dangnhap.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\css\\dienthoai.css",
+      "PackagePath": "staticwebassets\\assets4\\css\\dienthoai.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets4\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\css\\giohang.css",
+      "PackagePath": "staticwebassets\\assets4\\css\\giohang.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\css\\hoidap.css",
+      "PackagePath": "staticwebassets\\assets4\\css\\hoidap.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets4\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets4\\css\\style.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets4\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\css\\style.scss",
+      "PackagePath": "staticwebassets\\assets4\\css\\style.scss"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets4\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets4\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets4\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\1.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\1.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\1e962305-a728-44b0-ac8e-673d0f71eec9_item12.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\1e962305-a728-44b0-ac8e-673d0f71eec9_item12.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\2.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\3.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\311120.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\311120.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\3273c11b-c785-4ea0-8040-38ba63f177c2_item11.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\3273c11b-c785-4ea0-8040-38ba63f177c2_item11.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\3a92b531-f49b-41d1-bd86-4c473e3d7846_item10.png",
+      "PackagePath": "staticwebassets\\assets4\\image\\3a92b531-f49b-41d1-bd86-4c473e3d7846_item10.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\4.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\4.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\4abfebf6-8f7b-4e8d-8053-ba90bf3829fc_item2.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\4abfebf6-8f7b-4e8d-8053-ba90bf3829fc_item2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\4c95d82f-7da1-42ca-a2ec-dbffaabcc902_item11.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\4c95d82f-7da1-42ca-a2ec-dbffaabcc902_item11.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\5.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\5.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\55c3226c-722a-45f3-9bf3-0731397a3076_item11.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\55c3226c-722a-45f3-9bf3-0731397a3076_item11.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\5d7b6e77-d23a-401c-861a-3e581c61e94b_item12.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\5d7b6e77-d23a-401c-861a-3e581c61e94b_item12.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\99f60759-c6ff-4880-8011-7e03579cb551_item9.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\99f60759-c6ff-4880-8011-7e03579cb551_item9.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\b4a17f07-8fcf-4efb-9f73-1e16889c1024_item12.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\b4a17f07-8fcf-4efb-9f73-1e16889c1024_item12.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\banner.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\c141254b-eac9-4722-a6f6-029cfa7f821f_item9.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\c141254b-eac9-4722-a6f6-029cfa7f821f_item9.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\de4b227a-760e-4229-afc0-d40623d25831_item8.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\de4b227a-760e-4229-afc0-d40623d25831_item8.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\dh1.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\dh1.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\dh2.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\dh2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\dh3.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\dh3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\dh4.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\dh4.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\dh5.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\dh5.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\e2862349-ca16-4af4-a31e-5cd1792d3fae_item12.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\e2862349-ca16-4af4-a31e-5cd1792d3fae_item12.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\fa65ef4c-33bf-45e3-ab07-50fb61cac271_item4.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\fa65ef4c-33bf-45e3-ab07-50fb61cac271_item4.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\fold3.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\fold3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\footer-bg.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\hinh1.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\hinh1.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\hinh2.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\hinh2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\hinh3.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\hinh3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\hinh4.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\hinh4.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\hinh5.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\hinh5.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\hoidap1.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\hoidap1.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\hoidap2.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\hoidap2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\hoidap3.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\hoidap3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\hoidap4.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\hoidap4.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\hoidap5.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\hoidap5.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\hoidap6.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\hoidap6.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\hotay.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\hotay.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\icon.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\icon.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\icon.png",
+      "PackagePath": "staticwebassets\\assets4\\image\\icon.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\img1.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\img2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\img3.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\img3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\img4.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\img4.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\img5.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\img5.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\ip13.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\ip13.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\item1.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\item1.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\item10.png",
+      "PackagePath": "staticwebassets\\assets4\\image\\item10.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\item11.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\item11.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\item12.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\item12.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\item2.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\item2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\item3.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\item3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\item4.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\item4.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\item5.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\item5.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\item6.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\item6.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\item7.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\item7.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\item8.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\item8.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\item9.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\item9.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\logo.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\logo.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\logo.png",
+      "PackagePath": "staticwebassets\\assets4\\image\\logo.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\logo1.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\logo1.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\logo2.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\logo2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\logo3.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\logo3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\logo4.png",
+      "PackagePath": "staticwebassets\\assets4\\image\\logo4.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\logo5.png",
+      "PackagePath": "staticwebassets\\assets4\\image\\logo5.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\logo6.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\logo6.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\ngang.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\ngang.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\quan.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\quan.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\reno.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\reno.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\tải xuống.jfif",
+      "PackagePath": "staticwebassets\\assets4\\image\\tải xuống.jfif"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\image\\x70.jpg",
+      "PackagePath": "staticwebassets\\assets4\\image\\x70.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\assets4\\images\\about-img.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\images\\client1.jpg",
+      "PackagePath": "staticwebassets\\assets4\\images\\client1.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\images\\client2.jpg",
+      "PackagePath": "staticwebassets\\assets4\\images\\client2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\images\\f1.png",
+      "PackagePath": "staticwebassets\\assets4\\images\\f1.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\images\\f2.png",
+      "PackagePath": "staticwebassets\\assets4\\images\\f2.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\images\\f3.png",
+      "PackagePath": "staticwebassets\\assets4\\images\\f3.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\images\\f4.png",
+      "PackagePath": "staticwebassets\\assets4\\images\\f4.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\images\\f5.png",
+      "PackagePath": "staticwebassets\\assets4\\images\\f5.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\images\\f6.png",
+      "PackagePath": "staticwebassets\\assets4\\images\\f6.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\images\\f7.png",
+      "PackagePath": "staticwebassets\\assets4\\images\\f7.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\images\\f8.png",
+      "PackagePath": "staticwebassets\\assets4\\images\\f8.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\images\\f9.png",
+      "PackagePath": "staticwebassets\\assets4\\images\\f9.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets4\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\assets4\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\images\\o1.jpg",
+      "PackagePath": "staticwebassets\\assets4\\images\\o1.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\images\\o2.jpg",
+      "PackagePath": "staticwebassets\\assets4\\images\\o2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets4\\js\\app.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets4\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets4\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\js\\giohang.js",
+      "PackagePath": "staticwebassets\\assets4\\js\\giohang.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\assets4\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets4\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets4\\js\\script.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\.vscode\\settings.json",
+      "PackagePath": "staticwebassets\\assets\\.vscode\\settings.json"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\css\\dangnhap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dangnhap.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\css\\dienthoai.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dienthoai.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\css\\giohang.css",
+      "PackagePath": "staticwebassets\\assets\\css\\giohang.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\css\\hoidap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\hoidap.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\099d3d65-ca63-43eb-91eb-382c7d02f677_4abfebf6-8f7b-4e8d-8053-ba90bf3829fc_item2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\099d3d65-ca63-43eb-91eb-382c7d02f677_4abfebf6-8f7b-4e8d-8053-ba90bf3829fc_item2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\1.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\1e962305-a728-44b0-ac8e-673d0f71eec9_item12.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\1e962305-a728-44b0-ac8e-673d0f71eec9_item12.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\311120.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\311120.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\3273c11b-c785-4ea0-8040-38ba63f177c2_item11.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\3273c11b-c785-4ea0-8040-38ba63f177c2_item11.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\3a92b531-f49b-41d1-bd86-4c473e3d7846_item10.png",
+      "PackagePath": "staticwebassets\\assets\\image\\3a92b531-f49b-41d1-bd86-4c473e3d7846_item10.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\4.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\4abfebf6-8f7b-4e8d-8053-ba90bf3829fc_item2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\4abfebf6-8f7b-4e8d-8053-ba90bf3829fc_item2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\4c95d82f-7da1-42ca-a2ec-dbffaabcc902_item11.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\4c95d82f-7da1-42ca-a2ec-dbffaabcc902_item11.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\5.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\55c3226c-722a-45f3-9bf3-0731397a3076_item11.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\55c3226c-722a-45f3-9bf3-0731397a3076_item11.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\5d7b6e77-d23a-401c-861a-3e581c61e94b_item12.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\5d7b6e77-d23a-401c-861a-3e581c61e94b_item12.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\8dec66c0-ce30-4c83-bb79-d338850f06df_1e962305-a728-44b0-ac8e-673d0f71eec9_item12.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\8dec66c0-ce30-4c83-bb79-d338850f06df_1e962305-a728-44b0-ac8e-673d0f71eec9_item12.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\99f60759-c6ff-4880-8011-7e03579cb551_item9.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\99f60759-c6ff-4880-8011-7e03579cb551_item9.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\9b96db91-a7f9-489f-86c5-1cc5fa59727a_hinh3.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\9b96db91-a7f9-489f-86c5-1cc5fa59727a_hinh3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\af1cc46a-3374-42e0-adc8-f00ffdb04358_hotay.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\af1cc46a-3374-42e0-adc8-f00ffdb04358_hotay.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\b4a17f07-8fcf-4efb-9f73-1e16889c1024_item12.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\b4a17f07-8fcf-4efb-9f73-1e16889c1024_item12.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\b838ab49-9ef5-4741-b254-edce327ffee2_Screenshot 2023-12-21 204643.png",
+      "PackagePath": "staticwebassets\\assets\\image\\b838ab49-9ef5-4741-b254-edce327ffee2_Screenshot 2023-12-21 204643.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\banner.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\c141254b-eac9-4722-a6f6-029cfa7f821f_item9.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\c141254b-eac9-4722-a6f6-029cfa7f821f_item9.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\cf7f2f4e-5981-42bc-b31e-64b7370ee46c_item11.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\cf7f2f4e-5981-42bc-b31e-64b7370ee46c_item11.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\de4b227a-760e-4229-afc0-d40623d25831_item8.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\de4b227a-760e-4229-afc0-d40623d25831_item8.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\dh1.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\dh1.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\dh2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\dh2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\dh3.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\dh3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\dh4.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\dh4.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\dh5.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\dh5.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\eed44ad4-5061-4e5f-bd1d-3f562d727461_Screenshot 2024-01-15 193437.png",
+      "PackagePath": "staticwebassets\\assets\\image\\eed44ad4-5061-4e5f-bd1d-3f562d727461_Screenshot 2024-01-15 193437.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\fa65ef4c-33bf-45e3-ab07-50fb61cac271_item4.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\fa65ef4c-33bf-45e3-ab07-50fb61cac271_item4.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\fold3.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\fold3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\footer-bg.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\hinh1.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\hinh1.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\hinh2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\hinh2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\hinh3.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\hinh3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\hinh4.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\hinh4.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\hinh5.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\hinh5.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\hoidap1.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\hoidap1.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\hoidap2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\hoidap2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\hoidap3.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\hoidap3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\hoidap4.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\hoidap4.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\hoidap5.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\hoidap5.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\hoidap6.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\hoidap6.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\hotay.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\hotay.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\icon.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\icon.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\icon.png",
+      "PackagePath": "staticwebassets\\assets\\image\\icon.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\img1.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\img2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\img3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\img4.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\img5.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\ip13.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\ip13.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\item10.png",
+      "PackagePath": "staticwebassets\\assets\\image\\item10.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\item11.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\item11.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\item12.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\item12.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\item2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\item2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\item3.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\item3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\item4.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\item4.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\item5.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\item5.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\item6.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\item6.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\item7.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\item7.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\item8.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\item8.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\logo.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\logo.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\image\\logo.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\logo1.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\logo1.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\logo2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\logo2.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\logo3.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\logo3.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\logo4.png",
+      "PackagePath": "staticwebassets\\assets\\image\\logo4.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\logo5.png",
+      "PackagePath": "staticwebassets\\assets\\image\\logo5.png"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\logo6.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\logo6.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\ngang.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\ngang.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\quan.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\quan.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\reno.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\reno.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\tải xuống.jfif",
+      "PackagePath": "staticwebassets\\assets\\image\\tải xuống.jfif"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\image\\x70.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\x70.jpg"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\js\\giohang.js",
+      "PackagePath": "staticwebassets\\assets\\js\\giohang.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\HocThemDotnet\\Project_PhoneStore\\Project_PhoneStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Project_PhoneStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Project_PhoneStore.props",
+      "PackagePath": "build\\Project_PhoneStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Project_PhoneStore.props",
+      "PackagePath": "buildMultiTargeting\\Project_PhoneStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Project_PhoneStore.props",
+      "PackagePath": "buildTransitive\\Project_PhoneStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

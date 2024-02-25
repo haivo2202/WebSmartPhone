@@ -1,0 +1,25 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Project_PhoneStore.Areas.Identity
+@using Project_PhoneStore.Models
+
+@inject SignInManager<Account> SignInManager
+@inject UserManager<Account> UserManager
+
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <li class="nav-item">
+        <a id="manage" class="nav-link text-dark" asp-controller="User" asp-action="Profile" title="Manage">Hello @UserManager.GetUserName(User)!</a>
+    </li>
+    <li class="nav-item">
+        <form id="logoutForm" class="form-inline" asp-action="Logout" asp-controller="User" )">
+            <button id="logout" type="submit" class="nav-link btn btn-link text-dark border-0">Thoát</button>
+        </form>
+    </li>
+}
+else
+{
+    <li><a href="~/User/Login">Đăng Nhập</a></li>
+
+}
+

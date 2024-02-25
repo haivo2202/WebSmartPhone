@@ -1,0 +1,48 @@
+﻿
+@model IEnumerable<Order>
+@{
+    ViewData["title"] = "Product Listed";
+    Layout = "_Layout1";
+}
+<h3>List Orders</h3>
+<table class="table">
+    <thead>
+        <tr>
+
+            <th scope="col">Order Account</th>
+            <th scope="col">Order Status</th>
+            <th scope="col">Order CreateDate</th>
+            <th scope="col">Order PhoneNumber</th>
+            <th scope="col">Order Address</th>
+            <th scope="col">Order Note</th>
+            <th scope="col">Order Total</th>
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr border>
+
+
+                <td>@item.Name</td>
+                <td><mark>@item.Status</mark></td>
+                <td>@item.CreatedAt</td>
+                <td>@item.ReceiverPhoneNumber</td>
+                <td>@item.ShippingAddress</td>
+                <td>@item.Note</td>
+                <td>@item.GrandTotal.ToString().000.000 VNĐ</td>
+
+
+                <td>
+                    @* <a asp-action="Edit" class="btn-danger btn-sm" asp-controller="Order" asp-route-Id="@item.OrderId">View</a> *@
+                    <a asp-action="Edit" class="btn-danger btn-sm" asp-controller="Order" asp-route-Id="@item.OrderId">Edit</a>
+                    <a asp-action="Delete" class="btn-warning btn-sm confirmDeletion" asp-controller="Order" asp-route-Id="@item.OrderId">Delete</a>
+                </td>
+            </tr>
+        }
+
+
+    </tbody>
+</table>

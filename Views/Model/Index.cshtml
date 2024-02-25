@@ -1,0 +1,44 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_Layout";
+}
+@model List<Project_PhoneStore.Models.ProductModel>
+<section class="menu-bar">
+    <div class="container">
+        @Html.Partial("_SidebarPartial")
+    </div>
+</section>
+<section class="product-gallery-one">
+    <div class="container">
+        <div class="product-gallery-one-content">
+            <div class="product-gallery-one-content-product">
+                @for (int i = 0; i < Model.Count; i++)
+                {
+                    <div class="product-gallery-one-content-product-item">
+                        <img src="~/assets/image/@Model[i].Image">
+                        <div class="product-gallery-one-content-product-item-text">
+                            <li>
+                                <img src="~/assets/image/icon.jpg">
+                                <p><a href="~/Product/Details/@Model[i].Id">Trợ giá mùa dịch </a></p>
+                            </li>
+                            <li>@Model[i].Name</li>
+                            <li>Online giá rẻ</li>
+                            <li>33.990.000<sup>đ</sup> </li>
+                            <li>@Model[i].Price.000.000<sup>đ</sup></li>
+                            <li>Quà 400.000<sup>đ</sup></li>
+                            <li>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </li>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</section>

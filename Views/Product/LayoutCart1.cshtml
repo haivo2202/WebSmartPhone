@@ -1,0 +1,126 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/54f0cb7e4a.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="~/assets/css/style.css">
+    <link href="~/assets3/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.1/css/font-awesome.css" rel="stylesheet">
+    <link href="~/assets3/css/prettyPhoto.css" rel="stylesheet">
+    <link href="~/assets3/css/price-range.css" rel="stylesheet">
+    <link href="~/assets3/css/animate.css" rel="stylesheet">
+    <link href="~/assets3/css/main.css" rel="stylesheet">
+    <link href="~/assets3/css/responsive.css" rel="stylesheet">
+    <title>Smart Phonee</title>
+</head>
+<body>
+    <header>
+        <img src="~/assets/image/banner.jpg" alt="">
+    </header>
+    <nav>
+        <div class="container">
+            <ul>
+                <li>
+                    <a asp-controller="Home" asp-action="Index"><img style="width: 150px;" src="https://png.pngtree.com/png-clipart/20230207/original/pngtree-beauty-logo-design-png-image_8947095.png" alt=""></a>
+                </li>
+                <li id="adress-form"><a href="#">Quận 12<i class="fas fa-sort-down"></i></a> </li>
+                <li><input type="text" placeholder="Bạn tìm gì...."><i class="fas fa-search"></i></li>
+                <li><button><a asp-controller="Cart" asp-action="Index"><i class="fas fa-shopping-cart"></i>Giỏ hàng</a></button></li>
+                <partial name="_LoginPartial" />
+                <li><a href="~/Admin/Login">ADMIN LOGIN</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- ---------------------------Slider----------------------- -->
+    <!------------product---------->
+    @RenderBody()
+
+    <footer class="footer">
+        <div class="grid">
+            <div class="row">
+                <div class="column">
+                    <h3 class="footer_heading">Trang chủ</h3>
+                    <ul class="list">
+                        <li class="list-items">
+                            <a href="">Lịch sử mua hàng</a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Cộng tác bán hàng</a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Tìm hiểu trả góp</a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Chính sách bảo hành</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="column">
+                    <h3 class="footer_heading">Giới thiệu công ty</h3>
+                    <ul class="list">
+                        <li class="list-items">
+                            <a href="">Tuyển dụng</a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Gửi góp ý, khiếu nại</a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Tìm siêu thị</a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Xem bản mobile</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="column">
+                    <h3 class="footer_heading">Tổng đài hỗ trợ</h3>
+                    <ul class="list">
+                        <li class="list-items">
+                            <a href="">Gọi mua <mark>1800.1060</mark></a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Kỹ thuật <mark>1800.1763</mark></a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Khiếu nại <mark>1800.1062</mark></a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Bảo hành <mark>1800.1064</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="column">
+                    <h3 class="footer_heading">Giới thiệu</h3>
+                    <ul class="list">
+                        <li class="list-items">
+                            <a href="">Điều khoản sử dụng</a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Chính sách bảo mật</a>
+                        </li>
+                        <li class="list-items">
+                            <a href="">Quảng cáo</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="~/assets/js/script.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/assets/js/script.js"></script>
+    <script src="~/assets3/js/jquery.js"></script>
+    <script src="~/assets3/js/bootstrap.min.js"></script>
+    <script src="~/assets3/js/jquery.scrollUp.min.js"></script>
+    <script src="~/assets3/js/price-range.js"></script>
+    <script src="~/assets3/js/jquery.prettyPhoto.js"></script>
+    <script src="~/assets3/js/main.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,988 @@
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\appsettings.Development.json
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\appsettings.json
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.staticwebassets.runtime.json
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.exe
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.deps.json
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.runtimeconfig.json
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.pdb
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.AssemblyInfoInputs.cache
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.AssemblyInfo.cs
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.CoreCompileInputs.cache
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.MvcApplicationPartsAssemblyInfo.cache
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.RazorAssemblyInfo.cache
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.RazorAssemblyInfo.cs
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.build.json
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.development.json
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.Project_PhoneStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.build.Project_PhoneStore.props
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project_PhoneStore.props
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project_PhoneStore.props
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.pack.json
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\bundle\Project_PhoneStore.styles.css
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\projectbundle\Project_PhoneStore.bundle.scp.css
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\refint\Project_PhoneStore.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.pdb
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.genruntimeconfig.cache
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\ref\Project_PhoneStore.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Azure.Core.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Azure.Identity.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Humanizer.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.CodeDom.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Memory.Data.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.AssemblyReference.cache
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.CopyComplete
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\appsettings.json
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.staticwebassets.runtime.json
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.exe
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.deps.json
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.runtimeconfig.json
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.pdb
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Humanizer.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.AssemblyReference.cache
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.AssemblyInfoInputs.cache
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.AssemblyInfo.cs
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.CoreCompileInputs.cache
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.RazorAssemblyInfo.cache
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.RazorAssemblyInfo.cs
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.Project_PhoneStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.build.Project_PhoneStore.props
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project_PhoneStore.props
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project_PhoneStore.props
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\bundle\Project_PhoneStore.styles.css
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\projectbundle\Project_PhoneStore.bundle.scp.css
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.CopyComplete
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\refint\Project_PhoneStore.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.pdb
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.genruntimeconfig.cache
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\ref\Project_PhoneStore.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\khoih\OneDrive\Máy tính\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.MvcApplicationPartsAssemblyInfo.cs
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\appsettings.Development.json
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\appsettings.json
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.staticwebassets.runtime.json
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.exe
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.deps.json
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.runtimeconfig.json
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.pdb
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Azure.Core.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Azure.Identity.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Humanizer.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.CodeDom.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Memory.Data.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.AssemblyReference.cache
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.AssemblyInfoInputs.cache
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.AssemblyInfo.cs
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.CoreCompileInputs.cache
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.MvcApplicationPartsAssemblyInfo.cs
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.MvcApplicationPartsAssemblyInfo.cache
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.RazorAssemblyInfo.cache
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.RazorAssemblyInfo.cs
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.build.json
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.development.json
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.Project_PhoneStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.build.Project_PhoneStore.props
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project_PhoneStore.props
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project_PhoneStore.props
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.pack.json
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\bundle\Project_PhoneStore.styles.css
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\projectbundle\Project_PhoneStore.bundle.scp.css
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.CopyComplete
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\refint\Project_PhoneStore.dll
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.pdb
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.genruntimeconfig.cache
+D:\BaoCaoCuoiKy\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\ref\Project_PhoneStore.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\appsettings.json
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.staticwebassets.runtime.json
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.exe
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.deps.json
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.runtimeconfig.json
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.pdb
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Humanizer.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.AssemblyReference.cache
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.AssemblyInfoInputs.cache
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.AssemblyInfo.cs
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.CoreCompileInputs.cache
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.RazorAssemblyInfo.cache
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.RazorAssemblyInfo.cs
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.Project_PhoneStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.build.Project_PhoneStore.props
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project_PhoneStore.props
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project_PhoneStore.props
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\bundle\Project_PhoneStore.styles.css
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\projectbundle\Project_PhoneStore.bundle.scp.css
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.CopyComplete
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\refint\Project_PhoneStore.dll
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.pdb
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.genruntimeconfig.cache
+C:\Users\khoih\Documents\Zalo Received Files\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\ref\Project_PhoneStore.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\appsettings.Development.json
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\appsettings.json
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.staticwebassets.runtime.json
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.exe
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.deps.json
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.runtimeconfig.json
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.pdb
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Azure.Core.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Azure.Identity.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Humanizer.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.CodeDom.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Memory.Data.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.AssemblyReference.cache
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.AssemblyInfoInputs.cache
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.AssemblyInfo.cs
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.CoreCompileInputs.cache
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.MvcApplicationPartsAssemblyInfo.cs
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.MvcApplicationPartsAssemblyInfo.cache
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.RazorAssemblyInfo.cache
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.RazorAssemblyInfo.cs
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.build.json
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.development.json
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.Project_PhoneStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.build.Project_PhoneStore.props
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project_PhoneStore.props
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project_PhoneStore.props
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.pack.json
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\bundle\Project_PhoneStore.styles.css
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\projectbundle\Project_PhoneStore.bundle.scp.css
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.CopyComplete
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\refint\Project_PhoneStore.dll
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.pdb
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.genruntimeconfig.cache
+D:\web\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\ref\Project_PhoneStore.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\BaoCaoCuoiKi(2023)\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\appsettings.json
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.staticwebassets.runtime.json
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.exe
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.deps.json
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.runtimeconfig.json
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.pdb
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Humanizer.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.AssemblyReference.cache
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.AssemblyInfoInputs.cache
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.AssemblyInfo.cs
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.CoreCompileInputs.cache
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.RazorAssemblyInfo.cache
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.RazorAssemblyInfo.cs
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.Project_PhoneStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.build.Project_PhoneStore.props
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project_PhoneStore.props
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project_PhoneStore.props
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\bundle\Project_PhoneStore.styles.css
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\projectbundle\Project_PhoneStore.bundle.scp.css
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.CopyComplete
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\refint\Project_PhoneStore.dll
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.pdb
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.genruntimeconfig.cache
+C:\Users\khoih\OneDrive\Máy tính\DoAn2\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\ref\Project_PhoneStore.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\appsettings.Development.json
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\appsettings.json
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.staticwebassets.runtime.json
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.exe
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.deps.json
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.runtimeconfig.json
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Project_PhoneStore.pdb
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Azure.Core.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Azure.Identity.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Humanizer.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.CodeDom.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Memory.Data.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.AssemblyReference.cache
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.AssemblyInfoInputs.cache
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.AssemblyInfo.cs
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.CoreCompileInputs.cache
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.MvcApplicationPartsAssemblyInfo.cs
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.MvcApplicationPartsAssemblyInfo.cache
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.RazorAssemblyInfo.cache
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.RazorAssemblyInfo.cs
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.build.json
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.development.json
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.Project_PhoneStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.build.Project_PhoneStore.props
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project_PhoneStore.props
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project_PhoneStore.props
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\staticwebassets.pack.json
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\bundle\Project_PhoneStore.styles.css
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\scopedcss\projectbundle\Project_PhoneStore.bundle.scp.css
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.csproj.CopyComplete
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\refint\Project_PhoneStore.dll
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.pdb
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\Project_PhoneStore.genruntimeconfig.cache
+D:\HocThemDotnet\Project_PhoneStore\Project_PhoneStore\obj\Debug\net8.0\ref\Project_PhoneStore.dll

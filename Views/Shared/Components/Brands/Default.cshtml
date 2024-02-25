@@ -1,0 +1,9 @@
+﻿@model IEnumerable<BrandModel>
+
+
+    <ul>
+    @foreach (var item in Model)
+    {
+        <li><a href="~/Brand/Index/@item.Id">@item.Name</a></li>
+    }
+    </ul>

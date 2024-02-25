@@ -1,0 +1,6 @@
+﻿@model IEnumerable<Model>
+
+@foreach (var item in Model)
+{
+	<li><a href="~/Model/Index/@item.Id">@item.Name</a></li>
+}

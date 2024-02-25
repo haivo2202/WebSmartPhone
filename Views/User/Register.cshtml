@@ -1,0 +1,55 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "LayoutLogin";
+}
+
+@using Microsoft.AspNetCore.Identity
+@using Project_PhoneStore.Areas.Identity
+@using Project_PhoneStore.Models
+
+@inject SignInManager<Account> SignInManager
+@inject UserManager<Account> UserManager
+
+@model Project_PhoneStore.Models.RegisterViewModel
+
+
+    <div class="login-container">
+        <form class="form-login" asp-action="Register" asp-controller="User">
+            <h1>Đăng Ký</h1>
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+            <div class="form-text">
+                <input asp-for="@Model.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="Email" />
+                <span asp-validation-for="@Model.Email" class="text-danger"></span>
+            </div>
+            <div class="form-text">
+                <input asp-for="@Model.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="Password" />
+                <span asp-validation-for="@Model.Password" class="text-danger"></span>
+            </div>
+            <div class="form-text">
+                <input asp-for="@Model.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="Confirm Password" />
+                <span asp-validation-for="@Model.ConfirmPassword" class="text-danger"></span>
+            </div>
+            <button>Đăng Ký</button>
+            <span>Bạn Đã có tài khoản ? Hãy Đăng Nhập <a href="~/User/Login">Tại đây</a></span>
+        </form>
+    </div>
+    <script src="~/assets/js/script.js"></script>
+    <script>
+        const formLogin = document.querySelectorAll('.form-text input')
+        const formLabel = document.querySelectorAll('.form-text label')
+        for (let i = 0; i < 2; i++) {
+            formLogin[i].addEventListener('mouseover', function () {
+                formLabel[i].classList.add("focus")
+            })
+            formLogin[i].addEventListener('mouseout', function () {
+                if (formLogin[i].value == "") {
+                    formLabel[i].classList.remove("focus")
+                }
+
+            })
+        }
+    </script>
+
+

@@ -1,0 +1,210 @@
+@using Microsoft.AspNetCore.Identity
+@using Project_PhoneStore.Areas.Identity
+@using Project_PhoneStore.Models
+
+@inject SignInManager<Account> SignInManager
+@inject UserManager<Account> UserManager
+
+
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+    <!-- basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- mobile metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <!-- site metas -->
+    <title>SmartPhone-Admins</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- site icon -->
+    <link rel="icon" href="~/admin/images/fevicon.png" type="image/png" />
+    <!-- bootstrap css -->
+    <link rel="stylesheet" href="~/admin/css/bootstrap.min.css" />
+    <!-- site css -->
+    <link rel="stylesheet" href="~/admin/style.css" />
+    <!-- responsive css -->
+    <link rel="stylesheet" href="~/admin/css/responsive.css" />
+    <!-- color css -->
+    <link rel="stylesheet" href="~/admin/css/colors.css" />
+    <!-- select bootstrap -->
+    <link rel="stylesheet" href="~/admin/css/bootstrap-select.css" />
+    <!-- scrollbar css -->
+    <link rel="stylesheet" href="~/admin/css/perfect-scrollbar.css" />
+    <!-- custom css -->
+    <link rel="stylesheet" href="~/admin/css/custom.css" />
+
+    <link href="~/admin/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/admin/assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="~/admin/assets/css/prettyPhoto.css" rel="stylesheet">
+    <link href="~/admin/assets/css/price-range.css" rel="stylesheet">
+    <link href="~/admin/assets/css/animate.css" rel="stylesheet">
+    <link href="~/admin/assets/css/main.css" rel="stylesheet">
+    <link href="~/admin/assets/css/responsive.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <link rel="shortcut icon" href="images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+   </head>
+   <body class="dashboard dashboard_1">
+      <div class="full_container">
+         <div class="inner_container">
+            <!-- Sidebar  -->
+            <nav id="sidebar">
+               <div class="sidebar_blog_1">
+                  <div class="sidebar-header">
+                     <div class="logo_section">
+                        <a href="index.html"><img class="logo_icon img-responsive" src="~/admin/images/logo/logo_icon.png" alt="#" /></a>
+                     </div>
+                  </div>
+                  <div class="sidebar_user_info">
+                     <div class="icon_setting"></div>
+                     <div class="user_profle_side">
+                        <div class="user_img"><img class="img-responsive" src="~/assets/image/" alt="#" /></div>
+                        <div class="user_info">
+                           <h6>@UserManager.GetUserName(User)</h6>
+                           <p><span class="online_animation"></span> Online</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="sidebar_blog_2">
+                  <h4>General</h4>
+                  <ul class="list-unstyled components">
+                     <li class="active">
+                        <a href="#dashboard" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-dashboard yellow_color"></i> <span>Products</span></a>
+                        <ul class="collapse list-unstyled" id="dashboard">
+                           <li>
+                              <a asp-action="Index" asp-controller="Product">> <span>List</span></a>
+                           </li>
+                           <li>
+                              <a asp-action="Create" asp-controller="Product">> <span>Create</span></a>
+                           </li>
+                        </ul>
+                     </li>
+                     <li>
+                        <a href="#element" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-diamond purple_color"></i> <span>Category</span></a>
+                        <ul class="collapse list-unstyled" id="element">
+                           <li><a href="~/Admin/Category/Index">> <span>List</span></a></li>
+                           <li><a href="~/Admin/Category/Create">> <span>Create</span></a></li>
+                        </ul>
+                     </li>
+                     <li>
+                        <a href="#apps" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-object-group blue2_color"></i> <span>Brands</span></a>
+                        <ul class="collapse list-unstyled" id="apps">
+                           <li><a href="~/Admin/Brand/Index">> <span>List</span></a></li>
+                           <li><a href="~/Admin/Brand/Create">> <span>Create</span></a></li>
+                        </ul>
+                     </li>
+                     <li class="active">
+                        <a href="#additional_page" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-clone yellow_color"></i> <span>Models</span></a>
+                        <ul class="collapse list-unstyled" id="additional_page">
+                           <li>
+                              <a href="~/Admin/Model/Index">> <span>List</span></a>
+                           </li>
+                           <li>
+                              <a href="~/Admin/Model/Create">> <span>Create</span></a>
+                           </li>
+                        </ul>
+                     </li>
+                        <li>
+                            <a href="#List" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-map purple_color2"></i> <span>Orders</span></a>
+                        <ul class="collapse list-unstyled" id="List">
+                            <li>
+                                    <a href="~/Admin/Order/Index">> <span>List</span></a>
+                            </li>
+                        </ul>
+                        </li>
+                        <li>
+                            <a href="~/Admin/Report/Index">
+                                <i class="fa fa-paper-plane red_color"></i> <span>Report</span>
+                            </a>
+                        </li>
+                   
+                  </ul>
+               </div>
+            </nav>
+            <!-- end sidebar -->
+            <!-- right content -->
+            <div id="content">
+               <!-- topbar -->
+               <div class="topbar">
+                  <nav class="navbar navbar-expand-lg navbar-light">
+                     <div class="full">
+                        <button type="button" id="sidebarCollapse" class="sidebar_toggle"><i class="fa fa-bars"></i></button>
+                        <div class="logo_section">
+                                <a href="Home"><img class="img-responsive" src="https://png.pngtree.com/png-clipart/20230207/original/pngtree-beauty-logo-design-png-image_8947095.png" alt="#" /></a>
+                        </div>
+                        <div class="right_topbar">
+                           <div class="icon_info">
+                              <ul>
+                                 <li><a href="#"><i class="fa fa-bell-o"></i><span class="badge">2</span></a></li>
+                                 <li><a href="#"><i class="fa fa-question-circle"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-envelope-o"></i><span class="badge">3</span></a></li>
+                              </ul>
+                              <ul class="user_profile_dd">
+                                 <li>
+                                    <a class="dropdown-toggle" data-toggle="dropdown"><img class="img-responsive rounded-circle" src="~/assets/image/" alt="#" /><span class="name_user">@UserManager.GetUserName(User)</span></a>
+                                    <div class="dropdown-menu">
+                                                <a class="dropdown-item" href="~/Admin/Profile">My Profile</a>
+                                       <a class="dropdown-item" href="~/Admin/Login"><span>Log Out</span> <i class="fa fa-sign-out"></i></a>
+                                    </div>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </nav>
+               </div>
+               <!-- end topbar -->
+               <!-- dashboard inner -->
+              @RenderBody()
+               <!-- end dashboard inner -->
+            </div>
+         </div>
+      </div>
+    <!-- jQuery -->
+    <script src="~/admin/js/jquery.min.js"></script>
+    <script src="~/admin/js/popper.min.js"></script>
+    <script src="~/admin/js/bootstrap.min.js"></script>
+    <!-- wow animation -->
+    <script src="~/admin/js/animate.js"></script>
+    <!-- select country -->
+    <script src="~/admin/js/bootstrap-select.js"></script>
+    <!-- owl carousel -->
+    <script src="~/admin/js/owl.carousel.js"></script>
+    <!-- chart js -->
+    <script src="~/admin/js/Chart.min.js"></script>
+    <script src="~/admin/js/Chart.bundle.min.js"></script>
+    <script src="~/admin/js/utils.js"></script>
+    <script src="~/admin/js/analyser.js"></script>
+    <!-- nice scrollbar -->
+    <script src="~/admin/js/perfect-scrollbar.min.js"></script>
+    <script>
+        var ps = new PerfectScrollbar('#sidebar');
+    </script>
+    <!-- custom js -->
+    <script src="~/admin/js/custom.js"></script>
+    <script src="~/admin/js/chart_custom_style1.js"></script>
+    <script src="~/admin/assets/js/jquery.js"></script>
+    <script src="~/admin/assets/js/bootstrap.min.js"></script>
+    <script src="~/admin/assets/js/jquery.scrollUp.min.js"></script>
+    <script src="~/admin/assets/js/price-range.js"></script>
+    <script src="~/admin/assets/js/jquery.prettyPhoto.js"></script>
+    <script src="~/admin/assets/js/main.js"></script>
+    <script src="~/admin/assets/js/site.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+   </body>
+</html>

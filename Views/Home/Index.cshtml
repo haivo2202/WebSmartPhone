@@ -1,0 +1,116 @@
+﻿@model List<Project_PhoneStore.Models.ProductModel>
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_Layout";
+}
+<section class="menu-bar">
+    <div class="container">
+       @Html.Partial("_SidebarPartial")
+    </div>
+</section>
+
+<section class="slider">
+    <div class="container">
+        <div class="slider-content">
+            <div class="slider-content-left">
+                <div class="slider-content-left-top-container">
+                    <div class="slider-content-left-top">
+                        <a href=""><img src="~/assets/image/ip13.jpg" alt=""></a>
+                        <a href=""><img src="~/assets/image/fold3.jpg" alt=""></a>
+                        <a href=""><img src="~/assets/image/x70.jpg" alt=""></a>
+                        <a href=""><img src="~/assets/image/reno.jpg" alt=""></a>
+                        <a href=""><img src="~/assets/image/1.jpg" alt=""></a>
+                    </div>
+                    <div class="slider-content-left-top-btn">
+                       @*  <i class="fas fa-chevron-left"></i>
+                        <i class="fas fa-chevron-right"></i> *@
+                    </div>
+                </div>
+                <div class="slider-content-left-bottom">
+                    <li class="active">Iphone13/13 pro</li>
+                    <li>Galaxy Z Fold3</li>
+                    <li>Vivo X70pro</li>
+                    <li>Oppo Reno6</li>
+                    <li>Apple watch</li>
+                </div>
+            </div>
+            <div class="slider-content-right">
+                <li>
+                    <a href=""><img src="~/assets/image/2.jpg"> </a>
+                </li>
+                <li>
+                    <a href=""><img src="~/assets/image/3.jpg"> </a>
+                </li>
+                <li>
+                    <a href=""><img src="~/assets/image/4.jpg"> </a>
+                </li>
+                <li>
+                    <a href=""><img src="~/assets/image/5.jpg"> </a>
+                </li>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="banner-one">
+    <div class="container">
+        <img src="~/assets/image/ngang.jpg">
+    </div>
+</section>
+<section class="slider-product-one">
+    <div class="container">
+        <div class="slider-product-one-content">
+            <div class="slider-product-one-content-title">
+                <h2>Săn Sale Online Mỗi Ngày</h2>
+            </div>
+            <div class="slider-product-one-content-container">
+                <div class="slider-product-one-content-items">
+                    @for(int i=0;i<5;i++)
+                    {
+                        <div class="slider-product-one-content-item">
+                           <img  src="~/assets/image/@Model[i].Image">
+                            <div class="slider-product-one-content-item-text">
+                                <ul>
+                                    <li>
+                                        <div class="image">
+                                            <a asp-action="Details" asp-controller="Product" asp-route-Id="@Model[i].Id">
+                                                <img src="~/assets/image/icon.jpg">
+                                            </a>
+                                        </div>
+                                   
+                                        <p><a href="~/Product/Details/@Model[i].Id">Trợ giá mùa dịch </a></p>
+                                </li>
+                                    <li>
+                                        <a class="add-to-cart" asp-action="Add" asp-controller="Cart" asp-route-Id="@Model[i].Id">
+                                            <i class="fa fa-shopping-cart"></i>
+                                            Add to cart
+                                        </a>
+                                    </li>
+                                <li>@Model[i].Name</li>
+                                @* <li>Online giá rẻ</li> *@
+                                <li>33.990.000<sup>đ</sup> </li>
+                                <li>@Model[i].Price.000.000<sup>VNĐ</sup></li>
+                                <li>Quà 400.000<sup>đ</sup></li>
+                                <li>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                </li>
+                                </ul>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<style>
+    li .add-to-cart {
+        color: blue;
+    }</style>
+

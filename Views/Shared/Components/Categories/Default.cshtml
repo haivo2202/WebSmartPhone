@@ -1,0 +1,9 @@
+﻿@model IEnumerable<CategoryModel>
+
+        <ul>
+        @foreach (var item in Model)
+        {
+           <li><a href="~/Category/Index/@item.Id">@item.Name</a></li>
+         }
+        </ul>
+      

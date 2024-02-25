@@ -1,0 +1,85 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\admin\assets\css - Copy\**" />
+    <Compile Remove="wwwroot\admin\assets\images - Copy\**" />
+    <Compile Remove="wwwroot\assets2\**" />
+    <Compile Remove="wwwroot\backend\**" />
+    <Content Remove="wwwroot\admin\assets\css - Copy\**" />
+    <Content Remove="wwwroot\admin\assets\images - Copy\**" />
+    <Content Remove="wwwroot\assets2\**" />
+    <Content Remove="wwwroot\backend\**" />
+    <EmbeddedResource Remove="wwwroot\admin\assets\css - Copy\**" />
+    <EmbeddedResource Remove="wwwroot\admin\assets\images - Copy\**" />
+    <EmbeddedResource Remove="wwwroot\assets2\**" />
+    <EmbeddedResource Remove="wwwroot\backend\**" />
+    <None Remove="wwwroot\admin\assets\css - Copy\**" />
+    <None Remove="wwwroot\admin\assets\images - Copy\**" />
+    <None Remove="wwwroot\assets2\**" />
+    <None Remove="wwwroot\backend\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="wwwroot\assets4\.vscode\settings.json" />
+    <Content Include="wwwroot\assets\.vscode\settings.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Identity\Data\" />
+    <Folder Include="wwwroot\assets4\.dist\" />
+    <Folder Include="wwwroot\assets\.dist\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Checkout\Index.cshtml" />
+    <None Include="wwwroot\admin\images\.DS_Store" />
+    <None Include="wwwroot\admin\images\layout_img\.DS_Store" />
+    <None Include="wwwroot\admin\modules\.DS_Store" />
+    <None Include="wwwroot\assets3\js\bootstrap.min.js" />
+    <None Include="wwwroot\assets3\js\contact.js" />
+    <None Include="wwwroot\assets3\js\gmaps.js" />
+    <None Include="wwwroot\assets3\js\html5shiv.js" />
+    <None Include="wwwroot\assets3\js\jquery.js" />
+    <None Include="wwwroot\assets3\js\jquery.prettyPhoto.js" />
+    <None Include="wwwroot\assets3\js\jquery.scrollUp.min.js" />
+    <None Include="wwwroot\assets3\js\main.js" />
+    <None Include="wwwroot\assets3\js\price-range.js" />
+    <None Include="wwwroot\assets3\media\products\d87fc053-7af9-4459-800b-5fe978bc8827_iphone14promax.webp" />
+    <None Include="wwwroot\assets4\css\style.css.map" />
+    <None Include="wwwroot\assets4\css\style.scss" />
+    <None Include="wwwroot\assets4\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\assets4\js\app.js" />
+    <None Include="wwwroot\assets4\js\bootstrap.js" />
+    <None Include="wwwroot\assets4\js\custom.js" />
+    <None Include="wwwroot\assets4\js\giohang.js" />
+    <None Include="wwwroot\assets4\js\jquery-3.4.1.min.js" />
+    <None Include="wwwroot\assets4\js\script.js" />
+    <None Include="wwwroot\assets\js\app.js" />
+    <None Include="wwwroot\assets\js\giohang.js" />
+    <None Include="wwwroot\assets\js\script.js" />
+  </ItemGroup>
+
+</Project>

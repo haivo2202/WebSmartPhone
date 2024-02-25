@@ -1,0 +1,49 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "LayoutLogin";
+}
+
+@using Microsoft.AspNetCore.Identity
+@using Project_PhoneStore.Areas.Identity
+@using Project_PhoneStore.Models
+
+@inject SignInManager<Account> SignInManager
+@inject UserManager<Account> UserManager
+@model Project_PhoneStore.Models.LoginAdminViewModel
+
+    <!-----------register------>
+    <div class="login-container">
+        <form class="form-login" asp-action="Login" asp-controller="Admin">
+            <h1>Đăng nhập ADMIN</h1>
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+            <div class="form-text">
+                <input asp-for="@Model.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="Email" />
+                <span asp-validation-for="@Model.Email" class="text-danger"></span>
+            </div>
+            <div class="form-text">
+                <input asp-for="@Model.Password" class="form-control" autocomplete="current-password" aria-required="true" placeholder="Password" />
+                <span asp-validation-for="@Model.Password" class="text-danger"></span>
+            </div>
+            <button>Đăng nhập</button>
+            <span>Bạn chưa có tài khoản?Đăng ký <a href="~/Admin/Register">Tại đây</a></span>
+        </form>
+    </div>
+    <script src="js/script.js"></script>
+    <script>
+        const formLogin = document.querySelectorAll('.form-text input')
+        const formLabel = document.querySelectorAll('.form-text label')
+        for (let i = 0; i < 2; i++) {
+            formLogin[i].addEventListener('mouseover', function () {
+                formLabel[i].classList.add("focus")
+            })
+            formLogin[i].addEventListener('mouseout', function () {
+                if (formLogin[i].value == "") {
+                    formLabel[i].classList.remove("focus")
+                }
+
+            })
+        }
+    </script>
+

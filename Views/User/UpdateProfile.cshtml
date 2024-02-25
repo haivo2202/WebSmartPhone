@@ -1,0 +1,58 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "LayoutCart";
+}
+
+
+@using Microsoft.AspNetCore.Identity
+@using Project_PhoneStore.Areas.Identity
+@using Project_PhoneStore.Models
+
+@inject SignInManager<Account> SignInManager
+@inject UserManager<Account> UserManager
+@model UserViewModel
+<h4>Edit Profile</h4>
+<div class="col-md-9">
+    <form asp-action="UpdateProfile" enctype="multipart/form-data">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label>User Name</label>
+            <input asp-for="@Model.Name" class="form-control" />
+            <span asp-validation-for="@Model.Name" class="text-danger" />
+        </div>
+
+        <div class="form-group">
+            <label>Phone Number</label>
+            <textarea asp-for="@Model.PhoneNumber" class="form-control"> </textarea>
+            <span asp-validation-for="@Model.PhoneNumber" class="text-danger" />
+        </div>
+
+        <div class="form-group">
+            <label>Email</label>
+            <textarea asp-for="@Model.Email" class="form-control"> </textarea>
+            <span asp-validation-for="@Model.Email" class="text-danger" />
+        </div>
+
+
+        <div class="form-group">
+            <label>Image</label>
+            <input asp-for="ImageUpload" class="form-control" />
+            <span asp-validation-for="ImageUpload" class="text-danger" />
+            <img id="imgpreview" class="pt-2" />
+        </div>
+
+        <div class="form-group">
+            <button class="btn btn-primary" asp-action="UpdateProfile1" asp-controller="User">Update</button>
+        </div>
+    </form>
+</div>
+<a href="~/User/Profile">Back To Profile</a>
+@section Scripts
+{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+}
